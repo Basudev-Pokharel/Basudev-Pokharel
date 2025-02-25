@@ -1,13 +1,13 @@
-## Hi there 👋
-**Basudev-Pokharel/Basudev-Pokharel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Hey there! I'm Basudev Pokharel 
 
-Here are some ideas to get you started:
+Aspiring **Full Stack Web Developer** 🎯 | Studying at **Business College Helsinki** 💻  
+Passionate about **JavaScript, PHP, and React** | Turning ideas into **cool projects** 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+📚 Learning. 💡 Building. 🔥 Growing.  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/basudev-pokharel/)  
+🌍 Check out my projects:  
+- [My projects collection here](https://basupokharel.netlify.app/)
+
+  
+Let's connect! 😊
