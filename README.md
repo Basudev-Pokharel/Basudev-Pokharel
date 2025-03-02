@@ -18,5 +18,11 @@ Passionate about **JavaScript, PHP, and React** | Dedicated to crafting **effici
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalalalal&label=Profile%20views&color=0e75b6&style=flat" alt="lalalalal" /> </p>
 
+*"Code never lies, comments sometimes do."*  
+*"Sometimes I write code that even I don't understand"*<br>
+*"Ctrl + C, Ctrl +V enthusiast"*<br>
+*"Believe in Hardwork"*
+
+
 
 
