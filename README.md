@@ -54,6 +54,8 @@ Passionate about **JavaScript, React, PHP, and Laravel** | Dedicated to crafting
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
+
 </p>
 
 🌍 Check out my projects: [My projects collection here](https://basupokharel.netlify.app/)
