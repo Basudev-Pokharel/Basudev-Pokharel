@@ -58,7 +58,7 @@ Passionate about **JavaScript, React, PHP, and Laravel** | Dedicated to crafting
 
 </p>
 
-🌍 Check out my projects: [My projects collection here](https://basupokharel.netlify.app/)
+🌍 Check out my projects: [My projects collection here](https://basupokharel.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
